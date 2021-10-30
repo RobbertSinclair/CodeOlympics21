@@ -1,0 +1,16 @@
+#generate-idea {
+    font-size: 48px;
+}
+
+body {
+    text-align: center;
+}
+
+#flag {
+    height: 200px;
+    border: 10px solid black;
+}
+
+#loading {
+    height: 100px;
+}
